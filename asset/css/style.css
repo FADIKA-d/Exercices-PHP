@@ -1,0 +1,24 @@
+.borderTab {
+    border: 1px solid black ; 
+} 
+.firstColumn {
+    border: 1px solid blue ;
+    font-weight: bold ;
+    background-color: gray;
+}
+.firstData {
+    border: 3px solid ;
+    background-color: gray;
+}
+.firstLine {
+    border: 1px solid black ;
+    font-weight: bold ;
+    background-color: gray;
+}
+.title {
+    font-weight: bold ;
+    text-align: center;
+}
+.table {
+    text-align: center;
+}
